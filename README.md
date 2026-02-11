@@ -23,10 +23,9 @@
 - [Database Schema](#-database-schema)
 - [Installation](#-installation)
 - [Usage Guide](#-usage-guide)
-- [Application Screenshots](#-application-screenshots)
+- [Application Screenshot](#-application-screenshots)
 - [Project Structure](#-project-structure)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
